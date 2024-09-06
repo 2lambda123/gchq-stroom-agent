@@ -11,21 +11,21 @@
     <properties>
         <autoVersionSubmodules>true</autoVersionSubmodules>
 
-        <jsch.version>0.1.41</jsch.version>
-        <commons-compress.version>1.5</commons-compress.version>
+        <jsch.version>0.1.54</jsch.version>
+        <commons-compress.version>1.26.0</commons-compress.version>
         <commons-lang.version>2.6</commons-lang.version>
-        <commons-io.version>2.2</commons-io.version>
+        <commons-io.version>2.7</commons-io.version>
         <commons-logging.version>1.1.1</commons-logging.version>
         <commons-codec.version>1.8</commons-codec.version>
         <mail.version>1.4.7</mail.version>
         <ehcache.version>2.3.2</ehcache.version>
         <joda.version>2.3</joda.version>
-        <junit.version>4.11</junit.version>
+        <junit.version>4.13.1</junit.version>
         <log4j.version>1.2.17</log4j.version>
         <slf4j-log4j12.version>1.6.1</slf4j-log4j12.version>
         <servlet-api.version>2.5</servlet-api.version>
 
-        <spring.version>3.0.5.RELEASE</spring.version>
+        <spring.version>5.2.21.RELEASE</spring.version>
         <compiler.id>javac</compiler.id>
 
         <aether.version>1.13.1</aether.version>
